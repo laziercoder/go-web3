@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/chenzhijie/go-web3"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 
